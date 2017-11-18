@@ -1,0 +1,11 @@
+﻿l_spanish:
+ tech_enigmatic_power_core:0 "Generación de energía enigmática"
+ tech_enigmatic_power_core_desc:0 "Estos generadores hacen que las partículas interactúen entre sí de maneras que parecen desafiar a la naturaleza. Algunos parecen generar más energía de lo que se cree posible."
+ tech_enigmatic_deflector:0 "Deflectores enigmáticos"
+ tech_enigmatic_deflector_desc:0 "Estos deflectores funcionan de maneras que parecen desafiar las leyes de la naturaleza. De algún modo, acumulan un campo de protección mucho mayor de lo que se cree posible."
+ tech_enigmatic_disruption_field:0 "Campo de disrupción enigmático"
+ tech_enigmatic_disruption_field_desc:1 "Inundando un área localizada con suaves pulsos electromagnéticos modulados aleatoriamente se pueden interrumpir parcialmente el escudo y las armas del enemigo."
+ tech_enigmatic_encoder:0 "Codificador enigmático"
+ tech_enigmatic_encoder_desc:1 "El codificador enigmático encripta los datos de las rutas de vuelo según un diseño indeterminable antes de remitirlo al mando de la flota."
+ tech_enigmatic_decoder:0 "Decodificador enigmático"
+ tech_enigmatic_decoder_desc:1 "Aunque en las pruebas normales ofrece resultados medios, la precisión de los algoritmos de predicción del decodificador enigmático parece aumentar cuanto más irregular es la ruta de vuelo del objetivo."

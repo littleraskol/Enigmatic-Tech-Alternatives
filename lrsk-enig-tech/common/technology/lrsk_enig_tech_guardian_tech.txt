@@ -1,0 +1,151 @@
+# Enigmatic Tech Alternatives
+# Technologies
+# Author: littleraskol
+
+@lrsk_enig_cost = 7000
+@lrsk_enig_wght = 35
+
+#Enigmatic Deflector
+lrsk_enig_tech_enigmatic_deflector = {
+	cost = @lrsk_enig_cost
+	area = physics
+	tier = 3
+	category = { field_manipulation }
+	ai_update_type = all
+	weight = @lrsk_enig_wght
+	is_rare = yes
+	#is_reverse_engineerable = no
+
+	weight_modifier = {
+		modifier = {
+			factor = 0
+			NOR = {
+				#has_technology = tech_enigmatic_deflector
+				has_technology = tech_enigmatic_power_core
+				has_technology = tech_enigmatic_encoder
+				has_technology = tech_enigmatic_decoder
+				has_technology = tech_enigmatic_disruption_field
+			}
+		}
+		modifier = {
+			factor = 0
+			has_technology = tech_enigmatic_deflector
+		}
+	}
+}
+
+#Enigmatic Power Core
+lrsk_enig_tech_enigmatic_power_core = {
+	cost = @lrsk_enig_cost
+	area = physics
+	tier = 3
+	category = { particles }
+	ai_update_type = all
+	weight = @lrsk_enig_wght
+	is_rare = yes
+	#is_reverse_engineerable = no
+
+	weight_modifier = {
+		modifier = {
+			factor = 0
+			NOR = {
+				has_technology = tech_enigmatic_deflector
+				#has_technology = tech_enigmatic_power_core
+				has_technology = tech_enigmatic_encoder
+				has_technology = tech_enigmatic_decoder
+				has_technology = tech_enigmatic_disruption_field
+			}
+		}
+		modifier = {
+			factor = 0
+			has_technology = tech_enigmatic_power_core
+		}
+	}
+}
+
+#Enigmatic Encoder
+lrsk_enig_tech_enigmatic_encoder = {
+	cost = @lrsk_enig_cost
+	area = physics
+	tier = 3
+	category = { computing }
+	ai_update_type = all
+	weight = @lrsk_enig_wght
+	is_rare = yes
+	#is_reverse_engineerable = no
+
+	weight_modifier = {
+		modifier = {
+			factor = 0
+			NOR = {
+				has_technology = tech_enigmatic_deflector
+				has_technology = tech_enigmatic_power_core
+				#has_technology = tech_enigmatic_encoder
+				has_technology = tech_enigmatic_decoder
+				has_technology = tech_enigmatic_disruption_field
+			}
+		}
+		modifier = {
+			factor = 0
+			has_technology = tech_enigmatic_encoder
+		}
+	}
+}
+
+#Enigmatic Encoder
+lrsk_enig_tech_enigmatic_decoder = {
+	cost = @lrsk_enig_cost
+	area = physics
+	tier = 3
+	category = { computing }
+	ai_update_type = all
+	weight = @lrsk_enig_wght
+	is_rare = yes
+	#is_reverse_engineerable = no
+
+	weight_modifier = {
+		modifier = {
+			factor = 0
+			NOR = {
+				has_technology = tech_enigmatic_deflector
+				has_technology = tech_enigmatic_power_core
+				has_technology = tech_enigmatic_encoder
+				#has_technology = tech_enigmatic_decoder
+				has_technology = tech_enigmatic_disruption_field
+			}
+		}
+		modifier = {
+			factor = 0
+			has_technology = tech_enigmatic_decoder
+		}
+	}
+}
+
+#Enigmatic Disruption Field
+lrsk_enig_tech_enigmatic_disruption_field = {
+	cost = @lrsk_enig_cost
+	area = physics
+	tier = 3
+	category = { field_manipulation }
+	ai_update_type = all
+	weight = @lrsk_enig_wght
+	is_rare = yes
+	#is_reverse_engineerable = no
+
+	weight_modifier = {
+		modifier = {
+			factor = 0
+			NOR = {
+				has_technology = tech_enigmatic_deflector
+				has_technology = tech_enigmatic_power_core
+				has_technology = tech_enigmatic_encoder
+				has_technology = tech_enigmatic_decoder
+				#has_technology = tech_enigmatic_disruption_field
+			}
+		}
+		modifier = {
+			factor = 0
+			has_technology = tech_enigmatic_disruption_field
+		}
+	}
+}

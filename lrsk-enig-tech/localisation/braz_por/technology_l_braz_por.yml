@@ -1,0 +1,11 @@
+﻿l_braz_por:
+ tech_enigmatic_power_core:0 "Geração de Força Enigmática"
+ tech_enigmatic_power_core_desc:0 "Estes geradores fazem com que partículas interajam umas com as outras de maneiras que parecem desafiar a natureza. De alguma forma, eles conseguem produzir mais energia do que parece possível."
+ tech_enigmatic_deflector:0 "Defletores Enigmáticos"
+ tech_enigmatic_deflector_desc:0 "Estes defletores operam em maneiras que parecem desafiar as leis da natureza. De alguma forma, eles conseguem gerar um campo protetor muitas vezes maior do que parecia ser possível."
+ tech_enigmatic_disruption_field:0 "Campo Disruptor Enigmático"
+ tech_enigmatic_disruption_field_desc:1 "Ao inundar uma área localizada com pulsos eletromagnéticos fracos e modulados aleatoriamente, escudos e armas inimigas podem ser interrompidos parcialmente."
+ tech_enigmatic_encoder:0 "Codificador Enigmático"
+ tech_enigmatic_encoder_desc:1 "O Decodificador Enigmático embaralha os dados de voo usando um projeto indeterminável, antes de alimentar novamente ao comando da frota."
+ tech_enigmatic_decoder:0 "Decodificador Enigmático"
+ tech_enigmatic_decoder_desc:1 "Apesar de produzir resultados na média em testes padrões, a precisão dos algoritmos de previsão do Decodificador Enigmático aumenta conforme o plano de voo do alvo se torna mais instável."
