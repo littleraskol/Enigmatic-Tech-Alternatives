@@ -1,0 +1,1 @@
+Offers an alternative solution to the random enigmatic tech reward: having any one enigmatic tech makes it possible to research the others as rare techs.
