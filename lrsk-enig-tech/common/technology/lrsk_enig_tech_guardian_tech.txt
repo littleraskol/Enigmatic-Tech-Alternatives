@@ -14,7 +14,7 @@ lrsk_enig_tech_enigmatic_deflector = {
 	ai_update_type = all
 	weight = @lrsk_enig_wght
 	is_rare = yes
-	#is_reverse_engineerable = no
+	icon = "tech_enigmatic_deflector"
 
 	weight_modifier = {
 		modifier = {
@@ -43,7 +43,7 @@ lrsk_enig_tech_enigmatic_power_core = {
 	ai_update_type = all
 	weight = @lrsk_enig_wght
 	is_rare = yes
-	#is_reverse_engineerable = no
+	icon = "tech_enigmatic_power_core"
 
 	weight_modifier = {
 		modifier = {
@@ -72,7 +72,7 @@ lrsk_enig_tech_enigmatic_encoder = {
 	ai_update_type = all
 	weight = @lrsk_enig_wght
 	is_rare = yes
-	#is_reverse_engineerable = no
+	icon = "tech_enigmatic_encoder"
 
 	weight_modifier = {
 		modifier = {
@@ -101,7 +101,7 @@ lrsk_enig_tech_enigmatic_decoder = {
 	ai_update_type = all
 	weight = @lrsk_enig_wght
 	is_rare = yes
-	#is_reverse_engineerable = no
+	icon = "tech_enigmatic_decoder"
 
 	weight_modifier = {
 		modifier = {
@@ -130,7 +130,7 @@ lrsk_enig_tech_enigmatic_disruption_field = {
 	ai_update_type = all
 	weight = @lrsk_enig_wght
 	is_rare = yes
-	#is_reverse_engineerable = no
+	icon = "tech_enigmatic_disruption_field"
 
 	weight_modifier = {
 		modifier = {

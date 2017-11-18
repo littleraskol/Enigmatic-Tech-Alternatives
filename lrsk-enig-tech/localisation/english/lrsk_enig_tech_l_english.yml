@@ -1,0 +1,31 @@
+﻿l_english:
+
+ #All of these entries just copy the base game text.
+
+ lrsk_enig_tech_enigmatic_power_core:0 "$tech_enigmatic_power_core$"
+ lrsk_enig_tech_enigmatic_power_core_desc:0 "$tech_enigmatic_power_core_desc$"
+ lrsk_enig_tech_enigmatic_deflector:0 "$tech_enigmatic_deflector$"
+ lrsk_enig_tech_enigmatic_deflector_desc:0 "$tech_enigmatic_deflector_desc$"
+ lrsk_enig_tech_enigmatic_disruption_field:0 "$tech_enigmatic_disruption_field$"
+ lrsk_enig_tech_enigmatic_disruption_field_desc:1 "$tech_enigmatic_disruption_field_desc$"
+ lrsk_enig_tech_enigmatic_encoder:0 "$tech_enigmatic_encoder$"
+ lrsk_enig_tech_enigmatic_encoder_desc:1 "$tech_enigmatic_encoder_desc$"
+ lrsk_enig_tech_enigmatic_decoder:0 "$tech_enigmatic_decoder$"
+ lrsk_enig_tech_enigmatic_decoder_desc:1 "$tech_enigmatic_decoder_desc$"
+
+ LRSK_ENIGMATIC_POWER_CORE:0 "$ENIGMATIC_POWER_CORE$"
+ LRSK_ENIGMATIC_POWER_CORE_DESC:0 "$ENIGMATIC_POWER_CORE_DESC$"
+ SMALL_LRSK_ENIGMATIC_POWER_CORE:0 "$SMALL_ENIGMATIC_POWER_CORE$"
+ MEDIUM_LRSK_ENIGMATIC_POWER_CORE:0 "$MEDIUM_ENIGMATIC_POWER_CORE$"
+ LARGE_LRSK_ENIGMATIC_POWER_CORE:0 "$LARGE_ENIGMATIC_POWER_CORE$"
+ LRSK_ENIGMATIC_SHIELD:0 "$ENIGMATIC_SHIELD$"
+ LRSK_ENIGMATIC_SHIELD_DESC:1 "$ENIGMATIC_SHIELD_DESC$"
+ SMALL_LRSK_ENIGMATIC_SHIELD:0 "$SMALL_ENIGMATIC_SHIELD$"
+ MEDIUM_LRSK_ENIGMATIC_SHIELD:0 "$MEDIUM_ENIGMATIC_SHIELD$"
+ LARGE_LRSK_ENIGMATIC_SHIELD:0 "$LARGE_ENIGMATIC_SHIELD$"
+ LRSK_ENIGMATIC_DISRUPTION_FIELD:0 "$ENIGMATIC_DISRUPTION_FIELD$"
+ LRSK_ENIGMATIC_DISRUPTION_FIELD_DESC:0 "$ENIGMATIC_DISRUPTION_FIELD_DESC$"
+ LRSK_ENIGMATIC_DECODER:0 "$ENIGMATIC_DECODER$"
+ LRSK_ENIGMATIC_DECODER_DESC:1 "$ENIGMATIC_DECODER_DESC$"
+ LRSK_ENIGMATIC_ENCODER:0 "$ENIGMATIC_ENCODER$"
+ LRSK_ENIGMATIC_ENCODER_DESC:1 "$ENIGMATIC_ENCODER_DESC$"
